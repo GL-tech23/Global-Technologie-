@@ -1,0 +1,23 @@
+smart-tech-website/
+│
+├── index.html          # Home page
+├── services.html       # Services page
+├── about.html          # About Us page
+├── contact.html        # Contact page
+│
+├── css/
+│   ├── style.css       # Main stylesheet
+│   └── components.css  # Reusable components (buttons, cards, forms)
+│
+├── js/
+│   └── script.js       # JS for interactivity (menu toggle, contact form)
+│
+├── images/
+│   ├── hero.jpg
+│   ├── smart-home.jpg
+│   ├── surveillance.jpg
+│   ├── access-control.jpg
+│   ├── networking.jpg
+│   └── logo.png
+│
+└── README.md           # Brief explanation of files
